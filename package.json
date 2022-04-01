@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/stats-base-dists-exponential",
+  "version": "0.0.0",
+  "description": "Exponential distribution.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-exponential.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "standard",
+    "library",
+    "std",
+    "lib",
+    "mathematics",
+    "math",
+    "statistics",
+    "stats",
+    "probability",
+    "distribution",
+    "dist",
+    "exponential",
+    "univariate",
+    "continuous"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
