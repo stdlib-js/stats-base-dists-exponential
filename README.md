@@ -53,7 +53,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.exponential;
+})();
 })();
 </script>
 ```
@@ -144,9 +146,11 @@ var y = dist.logpdf( 0.8 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 console.log( objectKeys( exponential ) );
 
+})();
 })();
 </script>
 </body>
@@ -238,35 +242,35 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 <!-- <toc-links> -->
 
-[@stdlib/stats/base/dists/exponential/ctor]: https://github.com/stdlib-js/stats-base-dists-exponential-ctor/tree/umd
+[@stdlib/stats/base/dists/exponential/ctor]: https://github.com/stdlib-js/stats-base-dists-exponential-ctor/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/entropy]: https://github.com/stdlib-js/stats-base-dists-exponential-entropy/tree/umd
+[@stdlib/stats/base/dists/exponential/entropy]: https://github.com/stdlib-js/stats-base-dists-exponential-entropy/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/kurtosis]: https://github.com/stdlib-js/stats-base-dists-exponential-kurtosis/tree/umd
+[@stdlib/stats/base/dists/exponential/kurtosis]: https://github.com/stdlib-js/stats-base-dists-exponential-kurtosis/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/mean]: https://github.com/stdlib-js/stats-base-dists-exponential-mean/tree/umd
+[@stdlib/stats/base/dists/exponential/mean]: https://github.com/stdlib-js/stats-base-dists-exponential-mean/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/median]: https://github.com/stdlib-js/stats-base-dists-exponential-median/tree/umd
+[@stdlib/stats/base/dists/exponential/median]: https://github.com/stdlib-js/stats-base-dists-exponential-median/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/mode]: https://github.com/stdlib-js/stats-base-dists-exponential-mode/tree/umd
+[@stdlib/stats/base/dists/exponential/mode]: https://github.com/stdlib-js/stats-base-dists-exponential-mode/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/skewness]: https://github.com/stdlib-js/stats-base-dists-exponential-skewness/tree/umd
+[@stdlib/stats/base/dists/exponential/skewness]: https://github.com/stdlib-js/stats-base-dists-exponential-skewness/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/stdev]: https://github.com/stdlib-js/stats-base-dists-exponential-stdev/tree/umd
+[@stdlib/stats/base/dists/exponential/stdev]: https://github.com/stdlib-js/stats-base-dists-exponential-stdev/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/variance]: https://github.com/stdlib-js/stats-base-dists-exponential-variance/tree/umd
+[@stdlib/stats/base/dists/exponential/variance]: https://github.com/stdlib-js/stats-base-dists-exponential-variance/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/cdf]: https://github.com/stdlib-js/stats-base-dists-exponential-cdf/tree/umd
+[@stdlib/stats/base/dists/exponential/cdf]: https://github.com/stdlib-js/stats-base-dists-exponential-cdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/logcdf]: https://github.com/stdlib-js/stats-base-dists-exponential-logcdf/tree/umd
+[@stdlib/stats/base/dists/exponential/logcdf]: https://github.com/stdlib-js/stats-base-dists-exponential-logcdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/logpdf]: https://github.com/stdlib-js/stats-base-dists-exponential-logpdf/tree/umd
+[@stdlib/stats/base/dists/exponential/logpdf]: https://github.com/stdlib-js/stats-base-dists-exponential-logpdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/mgf]: https://github.com/stdlib-js/stats-base-dists-exponential-mgf/tree/umd
+[@stdlib/stats/base/dists/exponential/mgf]: https://github.com/stdlib-js/stats-base-dists-exponential-mgf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/pdf]: https://github.com/stdlib-js/stats-base-dists-exponential-pdf/tree/umd
+[@stdlib/stats/base/dists/exponential/pdf]: https://github.com/stdlib-js/stats-base-dists-exponential-pdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/exponential/quantile]: https://github.com/stdlib-js/stats-base-dists-exponential-quantile/tree/umd
+[@stdlib/stats/base/dists/exponential/quantile]: https://github.com/stdlib-js/stats-base-dists-exponential-quantile/tree/umd/tree/umd
 
 <!-- </toc-links> -->
 
