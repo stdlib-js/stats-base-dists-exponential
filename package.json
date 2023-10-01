@@ -36,11 +36,11 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/stats-base-dists-exponential-cdf": "^0.0.7",
-    "@stdlib/stats-base-dists-exponential-ctor": "^0.0.8",
+    "@stdlib/stats-base-dists-exponential-cdf": "^0.1.0",
+    "@stdlib/stats-base-dists-exponential-ctor": "^0.1.0",
     "@stdlib/stats-base-dists-exponential-entropy": "^0.1.0",
     "@stdlib/stats-base-dists-exponential-kurtosis": "^0.1.0",
-    "@stdlib/stats-base-dists-exponential-logcdf": "^0.0.7",
+    "@stdlib/stats-base-dists-exponential-logcdf": "^0.1.0",
     "@stdlib/stats-base-dists-exponential-logpdf": "^0.1.0",
     "@stdlib/stats-base-dists-exponential-mean": "^0.1.0",
     "@stdlib/stats-base-dists-exponential-median": "^0.1.0",
@@ -67,7 +67,7 @@
     "@stdlib/math-base-special-exp": "^0.1.0",
     "@stdlib/math-base-special-ln": "^0.1.0",
     "@stdlib/math-base-special-log1p": "^0.1.0",
-    "@stdlib/random-base-randu": "^0.0.8",
+    "@stdlib/random-base-randu": "^0.1.0",
     "@stdlib/string-format": "^0.1.0",
     "@stdlib/utils-constant-function": "^0.1.0",
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.1.0",
