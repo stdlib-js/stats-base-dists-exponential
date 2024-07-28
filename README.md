@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import exponential from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential@deno/mod.js';
+import exponential from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential@v0.2.2-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Exponential, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mgf, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential@deno/mod.js';
+import { Exponential, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mgf, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential@v0.2.2-deno/mod.js';
 ```
 
 #### exponential
@@ -131,7 +131,7 @@ var y = dist.logpdf( 0.8 );
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import exponential from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential@deno/mod.js';
+import exponential from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential@v0.2.2-deno/mod.js';
 
 console.log( objectKeys( exponential ) );
 ```
