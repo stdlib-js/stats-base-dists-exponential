@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-10-08)
+## Unreleased (2024-10-12)
 
 <section class="packages">
 
@@ -33,6 +33,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`43e7a33`](https://github.com/stdlib-js/stdlib/commit/43e7a3386606e54475e872d24ddf11fa6c122c42) - **chore:** minor clean-up after code review _(by Philipp Burckhardt)_
 -   [`61912b7`](https://github.com/stdlib-js/stdlib/commit/61912b7eed6c5f60d074210347d31472da963b22) - **docs:** improve examples of `stats/base/dists/exponential` namespace _(by UtkershBasnet, Philipp Burckhardt)_
 -   [`f387603`](https://github.com/stdlib-js/stdlib/commit/f387603e739f88a38af3263ce6ff675ad903ee8c) - **docs:** consistently use declarative instead of imperative sentences outside of intros _(by Philipp Burckhardt)_
 
