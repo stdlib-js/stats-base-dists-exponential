@@ -4,23 +4,240 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-23)
 
 <section class="packages">
 
 ### Packages
 
+<section class="package" id="stats-base-dists-exponential-kurtosis-unreleased">
+
+#### [@stdlib/stats/base/dists/exponential/kurtosis](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/exponential/kurtosis)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`5bb4ea6`](https://github.com/stdlib-js/stdlib/commit/5bb4ea62d91c1b6ab5210e80db10d44ab2748189) - add C implementation for `stats/base/dists/exponential/kurtosis` [(#4058)](https://github.com/stdlib-js/stdlib/pull/4058)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3582](https://github.com/stdlib-js/stdlib/issues/3582)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-exponential-mean-unreleased">
+
+#### [@stdlib/stats/base/dists/exponential/mean](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/exponential/mean)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`724d581`](https://github.com/stdlib-js/stdlib/commit/724d58131a5f47d333a0f062e56d489ce1605aa6) - add C implementation for `stats/base/dists/exponential/mean` [(#4046)](https://github.com/stdlib-js/stdlib/pull/4046)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3585](https://github.com/stdlib-js/stdlib/issues/3585)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-exponential-median-unreleased">
+
+#### [@stdlib/stats/base/dists/exponential/median](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/exponential/median)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`9d4ff4d`](https://github.com/stdlib-js/stdlib/commit/9d4ff4d2ea4c7b3244b3855124790aef5f526f41) - add C implementation for `stats/base/dists/exponential/median` [(#4049)](https://github.com/stdlib-js/stdlib/pull/4049)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3586](https://github.com/stdlib-js/stdlib/issues/3586)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-exponential-mode-unreleased">
+
+#### [@stdlib/stats/base/dists/exponential/mode](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/exponential/mode)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`7d9b63d`](https://github.com/stdlib-js/stdlib/commit/7d9b63ddd452bf4cc171bdd21cf666274d3eeb56) - add C implementation for `stats/base/dists/exponential/mode` [(#4047)](https://github.com/stdlib-js/stdlib/pull/4047)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3588](https://github.com/stdlib-js/stdlib/issues/3588)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-exponential-skewness-unreleased">
+
+#### [@stdlib/stats/base/dists/exponential/skewness](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/exponential/skewness)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`584df38`](https://github.com/stdlib-js/stdlib/commit/584df38b388c730c3291dae63ef9241802e5371d) - add C implementation for `stats/base/dists/exponential/skewness` [(#4056)](https://github.com/stdlib-js/stdlib/pull/4056)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3591](https://github.com/stdlib-js/stdlib/issues/3591)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-exponential-stdev-unreleased">
+
+#### [@stdlib/stats/base/dists/exponential/stdev](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/exponential/stdev)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`7e400e0`](https://github.com/stdlib-js/stdlib/commit/7e400e030ed237390ac962a15f031d15708bd381) - add C implementation for `stats/base/dists/exponential/stdev` [(#4063)](https://github.com/stdlib-js/stdlib/pull/4063)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3592](https://github.com/stdlib-js/stdlib/issues/3592)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="issues">
+
+### Closed Issues
+
+A total of 6 issues were closed in this release:
+
+[#3582](https://github.com/stdlib-js/stdlib/issues/3582), [#3585](https://github.com/stdlib-js/stdlib/issues/3585), [#3586](https://github.com/stdlib-js/stdlib/issues/3586), [#3588](https://github.com/stdlib-js/stdlib/issues/3588), [#3591](https://github.com/stdlib-js/stdlib/issues/3591), [#3592](https://github.com/stdlib-js/stdlib/issues/3592)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="contributors">
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 -   UtkershBasnet
 
 </section>
@@ -33,6 +250,12 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`9d4ff4d`](https://github.com/stdlib-js/stdlib/commit/9d4ff4d2ea4c7b3244b3855124790aef5f526f41) - **feat:** add C implementation for `stats/base/dists/exponential/median` [(#4049)](https://github.com/stdlib-js/stdlib/pull/4049) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+-   [`724d581`](https://github.com/stdlib-js/stdlib/commit/724d58131a5f47d333a0f062e56d489ce1605aa6) - **feat:** add C implementation for `stats/base/dists/exponential/mean` [(#4046)](https://github.com/stdlib-js/stdlib/pull/4046) _(by Prashant Kumar Yadav)_
+-   [`7d9b63d`](https://github.com/stdlib-js/stdlib/commit/7d9b63ddd452bf4cc171bdd21cf666274d3eeb56) - **feat:** add C implementation for `stats/base/dists/exponential/mode` [(#4047)](https://github.com/stdlib-js/stdlib/pull/4047) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+-   [`7e400e0`](https://github.com/stdlib-js/stdlib/commit/7e400e030ed237390ac962a15f031d15708bd381) - **feat:** add C implementation for `stats/base/dists/exponential/stdev` [(#4063)](https://github.com/stdlib-js/stdlib/pull/4063) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+-   [`5bb4ea6`](https://github.com/stdlib-js/stdlib/commit/5bb4ea62d91c1b6ab5210e80db10d44ab2748189) - **feat:** add C implementation for `stats/base/dists/exponential/kurtosis` [(#4058)](https://github.com/stdlib-js/stdlib/pull/4058) _(by Prashant Kumar Yadav)_
+-   [`584df38`](https://github.com/stdlib-js/stdlib/commit/584df38b388c730c3291dae63ef9241802e5371d) - **feat:** add C implementation for `stats/base/dists/exponential/skewness` [(#4056)](https://github.com/stdlib-js/stdlib/pull/4056) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 -   [`43e7a33`](https://github.com/stdlib-js/stdlib/commit/43e7a3386606e54475e872d24ddf11fa6c122c42) - **chore:** minor clean-up after code review _(by Philipp Burckhardt)_
 -   [`61912b7`](https://github.com/stdlib-js/stdlib/commit/61912b7eed6c5f60d074210347d31472da963b22) - **docs:** improve examples of `stats/base/dists/exponential` namespace _(by UtkershBasnet, Philipp Burckhardt)_
 -   [`f387603`](https://github.com/stdlib-js/stdlib/commit/f387603e739f88a38af3263ce6ff675ad903ee8c) - **docs:** consistently use declarative instead of imperative sentences outside of intros _(by Philipp Burckhardt)_
