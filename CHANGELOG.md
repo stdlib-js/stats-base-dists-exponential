@@ -4,11 +4,79 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-20)
+## Unreleased (2025-02-24)
 
 <section class="packages">
 
 ### Packages
+
+<section class="package" id="stats-base-dists-exponential-cdf-unreleased">
+
+#### [@stdlib/stats/base/dists/exponential/cdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/exponential/cdf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`8cfbf33`](https://github.com/stdlib-js/stdlib/commit/8cfbf331fbdfee66dfeec11c7e0f3e9829ed79cc) - add C implementation for `stats/base/dists/exponential/cdf` [(#4173)](https://github.com/stdlib-js/stdlib/pull/4173)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+A total of 3 issues were closed in this release:
+
+[#3580](https://github.com/stdlib-js/stdlib/issues/3580), [#5145](https://github.com/stdlib-js/stdlib/issues/5145), [#5234](https://github.com/stdlib-js/stdlib/issues/5234)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-exponential-entropy-unreleased">
+
+#### [@stdlib/stats/base/dists/exponential/entropy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/exponential/entropy)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`44c266e`](https://github.com/stdlib-js/stdlib/commit/44c266e652cd19adda9b92db83843d5dcb3aa3e8) - add C implementation for `stats/base/dists/exponential/entropy` [(#4177)](https://github.com/stdlib-js/stdlib/pull/4177)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3581](https://github.com/stdlib-js/stdlib/issues/3581)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
 
 <section class="package" id="stats-base-dists-exponential-kurtosis-unreleased">
 
@@ -67,6 +135,40 @@ This release closes the following issue:
 This release closes the following issue:
 
 [#3583](https://github.com/stdlib-js/stdlib/issues/3583)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-exponential-logpdf-unreleased">
+
+#### [@stdlib/stats/base/dists/exponential/logpdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/exponential/logpdf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`a94091c`](https://github.com/stdlib-js/stdlib/commit/a94091cc3207e821b19129832ffce6bee8bb5fed) - add C implementation for `stats/base/dists/exponential/logpdf` [(#4176)](https://github.com/stdlib-js/stdlib/pull/4176)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+A total of 2 issues were closed in this release:
+
+[#3584](https://github.com/stdlib-js/stdlib/issues/3584), [#5146](https://github.com/stdlib-js/stdlib/issues/5146)
 
 </section>
 
@@ -180,6 +282,40 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="stats-base-dists-exponential-quantile-unreleased">
+
+#### [@stdlib/stats/base/dists/exponential/quantile](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/exponential/quantile)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`8171728`](https://github.com/stdlib-js/stdlib/commit/81717288b3792ada6bda5f69e9626408eb2de391) - add C implementation for `stats/base/dists/exponential/quantile` [(#4145)](https://github.com/stdlib-js/stdlib/pull/4145)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3590](https://github.com/stdlib-js/stdlib/issues/3590)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="stats-base-dists-exponential-skewness-unreleased">
 
 #### [@stdlib/stats/base/dists/exponential/skewness](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/exponential/skewness)
@@ -256,9 +392,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 7 issues were closed in this release:
+A total of 14 issues were closed in this release:
 
-[#3582](https://github.com/stdlib-js/stdlib/issues/3582), [#3583](https://github.com/stdlib-js/stdlib/issues/3583), [#3585](https://github.com/stdlib-js/stdlib/issues/3585), [#3586](https://github.com/stdlib-js/stdlib/issues/3586), [#3588](https://github.com/stdlib-js/stdlib/issues/3588), [#3591](https://github.com/stdlib-js/stdlib/issues/3591), [#3592](https://github.com/stdlib-js/stdlib/issues/3592)
+[#3580](https://github.com/stdlib-js/stdlib/issues/3580), [#3581](https://github.com/stdlib-js/stdlib/issues/3581), [#3582](https://github.com/stdlib-js/stdlib/issues/3582), [#3583](https://github.com/stdlib-js/stdlib/issues/3583), [#3584](https://github.com/stdlib-js/stdlib/issues/3584), [#3585](https://github.com/stdlib-js/stdlib/issues/3585), [#3586](https://github.com/stdlib-js/stdlib/issues/3586), [#3588](https://github.com/stdlib-js/stdlib/issues/3588), [#3590](https://github.com/stdlib-js/stdlib/issues/3590), [#3591](https://github.com/stdlib-js/stdlib/issues/3591), [#3592](https://github.com/stdlib-js/stdlib/issues/3592), [#5145](https://github.com/stdlib-js/stdlib/issues/5145), [#5146](https://github.com/stdlib-js/stdlib/issues/5146), [#5234](https://github.com/stdlib-js/stdlib/issues/5234)
 
 </section>
 
@@ -268,10 +404,13 @@ A total of 7 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
+-   Harsh
+-   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
+-   Saurabh Singh
 -   UtkershBasnet
 
 </section>
@@ -284,6 +423,19 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`7fc07a2`](https://github.com/stdlib-js/stdlib/commit/7fc07a2122bb9e862ae7e2237dd48096051199dd) - **docs:** fix missing section tags in various READMEs [(#5322)](https://github.com/stdlib-js/stdlib/pull/5322) _(by Saurabh Singh)_
+-   [`f7988d3`](https://github.com/stdlib-js/stdlib/commit/f7988d3c02e0eff3bd9bd7523b5dc975bb98dc0e) - **bench:** fix `isnan` checks in `stats/base/dists` [(#5296)](https://github.com/stdlib-js/stdlib/pull/5296) _(by Karan Anand)_
+-   [`fc127d4`](https://github.com/stdlib-js/stdlib/commit/fc127d4f0cf0b49f32e19dbd65c724ae64d8f4e7) - **chore:** address commit comments and update tests [(#5265)](https://github.com/stdlib-js/stdlib/pull/5265) _(by Saurabh Singh)_
+-   [`5186577`](https://github.com/stdlib-js/stdlib/commit/518657703bf95bfa4e0e99e6d453e2e909453f59) - **chore:** fix copy & paste error [(#5247)](https://github.com/stdlib-js/stdlib/pull/5247) _(by Harsh)_
+-   [`44c266e`](https://github.com/stdlib-js/stdlib/commit/44c266e652cd19adda9b92db83843d5dcb3aa3e8) - **feat:** add C implementation for `stats/base/dists/exponential/entropy` [(#4177)](https://github.com/stdlib-js/stdlib/pull/4177) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
+-   [`8171728`](https://github.com/stdlib-js/stdlib/commit/81717288b3792ada6bda5f69e9626408eb2de391) - **feat:** add C implementation for `stats/base/dists/exponential/quantile` [(#4145)](https://github.com/stdlib-js/stdlib/pull/4145) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
+-   [`25a369b`](https://github.com/stdlib-js/stdlib/commit/25a369b09bd828db38dc962afdb23b3c88fb8188) - **bench:** refactor number generation [(#5212)](https://github.com/stdlib-js/stdlib/pull/5212) _(by Harsh, Philipp Burckhardt)_
+-   [`f64e693`](https://github.com/stdlib-js/stdlib/commit/f64e6939aa6ac202a29f85e6df6b66ccc1418dd8) - **chore:** address commit comments [(#5202)](https://github.com/stdlib-js/stdlib/pull/5202) _(by Saurabh Singh)_
+-   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
+-   [`b9a2014`](https://github.com/stdlib-js/stdlib/commit/b9a2014b1181d30f86aa489ba90ad1f892ade8e8) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
+-   [`8cfbf33`](https://github.com/stdlib-js/stdlib/commit/8cfbf331fbdfee66dfeec11c7e0f3e9829ed79cc) - **feat:** add C implementation for `stats/base/dists/exponential/cdf` [(#4173)](https://github.com/stdlib-js/stdlib/pull/4173) _(by Prashant Kumar Yadav, stdlib-bot, Philipp Burckhardt)_
+-   [`a94091c`](https://github.com/stdlib-js/stdlib/commit/a94091cc3207e821b19129832ffce6bee8bb5fed) - **feat:** add C implementation for `stats/base/dists/exponential/logpdf` [(#4176)](https://github.com/stdlib-js/stdlib/pull/4176) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
+-   [`3250d4f`](https://github.com/stdlib-js/stdlib/commit/3250d4fb004a417dfd58fdc5a58d7efabc0f2b6e) - **bench:** refactor random number generation in `stats/base/dists/exponential` [(#4917)](https://github.com/stdlib-js/stdlib/pull/4917) _(by Karan Anand)_
 -   [`177f0a0`](https://github.com/stdlib-js/stdlib/commit/177f0a00909c097be05d47107a3e6ab05b865409) - **chore:** consistently use differential entropy for continuous distributions _(by Philipp Burckhardt)_
 -   [`f75a0ce`](https://github.com/stdlib-js/stdlib/commit/f75a0cef6a3112b166dba04c13bada9763cec350) - **chore:** use excess kurtosis consistently _(by Philipp Burckhardt)_
 -   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
