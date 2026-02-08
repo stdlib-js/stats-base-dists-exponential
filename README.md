@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import exponential from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential@deno/mod.js';
+import exponential from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential@v0.3.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Exponential, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mgf, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential@deno/mod.js';
+import { Exponential, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mgf, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential@v0.3.1-deno/mod.js';
 ```
 
 #### exponential
@@ -133,7 +133,7 @@ var y = dist.logpdf( 0.8 );
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
 import randomExponential from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-exponential@deno/mod.js';
 import dcusum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dcusum@deno/mod.js';
-import exponential from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential@deno/mod.js';
+import exponential from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential@v0.3.1-deno/mod.js';
 
 // Simulate interarrival times of customers entering a store:
 var lambda = 0.5; // Average rate (customers per minute)
