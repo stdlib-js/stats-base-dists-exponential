@@ -2,6 +2,48 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-23)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3ea11f2`](https://github.com/stdlib-js/stdlib/commit/3ea11f23f3d6995df240f81028aebe1e6eb95c1c) - **docs:** fix incorrect return value in `stats/base/dists/exponenetial/cdf/README.md` [(#10962)](https://github.com/stdlib-js/stdlib/pull/10962) _(by Om-A-osc)_
+-   [`15be226`](https://github.com/stdlib-js/stdlib/commit/15be2263624860a0f0e4b127bb16995e4036fb6a) - **docs:** fix incorrect return value in `stats/base/dists/exponenetial/logpdf/README.md` [(#10963)](https://github.com/stdlib-js/stdlib/pull/10963) _(by Om-A-osc)_
+-   [`fe2fcae`](https://github.com/stdlib-js/stdlib/commit/fe2fcaeca1ff0b964da4abd7527cabd6d9744a6d) - **docs:** fix C codeblocks in `stats/base/dists/exponenetial/logcdf` [(#10961)](https://github.com/stdlib-js/stdlib/pull/10961) _(by Om-A-osc)_
+-   [`5cc3f4f`](https://github.com/stdlib-js/stdlib/commit/5cc3f4f8aad580d87fe6ae2ed41271e4791cca70) - **bench:** refactor to use string interpolation in `stats/base/dists/exponential` [(#10346)](https://github.com/stdlib-js/stdlib/pull/10346) _(by Vishal Gaikwad)_
+-   [`88c63b2`](https://github.com/stdlib-js/stdlib/commit/88c63b2692cdefa8caa7b42906478865bedd0521) - **bench:** update random value generation for `stats/base/dists/exponential` [(#10330)](https://github.com/stdlib-js/stdlib/pull/10330) _(by Siddhartha Mondal, Philipp Burckhardt)_
+-   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 4 people contributed to this release. Thank you to the following contributors:
+
+-   Om-A-osc
+-   Philipp Burckhardt
+-   Siddhartha Mondal
+-   Vishal Gaikwad
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
