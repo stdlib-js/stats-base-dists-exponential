@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-25)
+## Unreleased (2026-05-02)
 
 <section class="commits">
 
@@ -12,6 +12,9 @@
 
 <details>
 
+-   [`187e141`](https://github.com/stdlib-js/stdlib/commit/187e141098635f0f2edf0f6f1289e06473ae7fcd) - **chore:** add missing `npm` engine constraint to `stats/base/dists/*/ctor` [(#11686)](https://github.com/stdlib-js/stdlib/pull/11686) _(by Philipp Burckhardt)_
+-   [`bd60a20`](https://github.com/stdlib-js/stdlib/commit/bd60a209ca4b0989663edbbc591bc7da80294827) - **build:** update R version to 4.2.0 in lint workflows [(#11262)](https://github.com/stdlib-js/stdlib/pull/11262) _(by Mara Averick)_
+-   [`f9dbbfa`](https://github.com/stdlib-js/stdlib/commit/f9dbbfaf48e1830f1c9fb685856eac2edba3fac6) - **docs:** fix C examples [(#11138)](https://github.com/stdlib-js/stdlib/pull/11138) _(by anee3, Athan Reines)_
 -   [`3ea11f2`](https://github.com/stdlib-js/stdlib/commit/3ea11f23f3d6995df240f81028aebe1e6eb95c1c) - **docs:** fix incorrect return value in `stats/base/dists/exponenetial/cdf/README.md` [(#10962)](https://github.com/stdlib-js/stdlib/pull/10962) _(by Om-A-osc)_
 -   [`15be226`](https://github.com/stdlib-js/stdlib/commit/15be2263624860a0f0e4b127bb16995e4036fb6a) - **docs:** fix incorrect return value in `stats/base/dists/exponenetial/logpdf/README.md` [(#10963)](https://github.com/stdlib-js/stdlib/pull/10963) _(by Om-A-osc)_
 -   [`fe2fcae`](https://github.com/stdlib-js/stdlib/commit/fe2fcaeca1ff0b964da4abd7527cabd6d9744a6d) - **docs:** fix C codeblocks in `stats/base/dists/exponenetial/logcdf` [(#10961)](https://github.com/stdlib-js/stdlib/pull/10961) _(by Om-A-osc)_
@@ -29,12 +32,15 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Mara Averick
 -   Om-A-osc
 -   Philipp Burckhardt
 -   Siddhartha Mondal
 -   Vishal Gaikwad
+-   anee3
 
 </section>
 
