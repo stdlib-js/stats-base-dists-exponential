@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-15)
+## Unreleased (2026-06-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
 -   [`5f6ce93`](https://github.com/stdlib-js/stdlib/commit/5f6ce933d6e8794302bf652392b22d8811eef537) - **docs:** update namespace table of contents [(#12141)](https://github.com/stdlib-js/stdlib/pull/12141) _(by stdlib-bot)_
 -   [`f2c2f39`](https://github.com/stdlib-js/stdlib/commit/f2c2f3967d9ee8afddc1206e69ddc015ff8f590a) - **docs:** normalize description in `stats/base/dists/exponential/logcdf` [(#12116)](https://github.com/stdlib-js/stdlib/pull/12116) _(by Philipp Burckhardt)_
 -   [`ff7716f`](https://github.com/stdlib-js/stdlib/commit/ff7716f81edf204f6097fbac25083696ff3a2092) - **docs:** correct C API heading function name in `stats/base/dists/exponential/logcdf` [(#11996)](https://github.com/stdlib-js/stdlib/pull/11996) _(by Philipp Burckhardt)_
