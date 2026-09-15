@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-09-15)
 
 <section class="commits">
 
@@ -12,6 +12,15 @@
 
 <details>
 
+-   [`10a84e4`](https://github.com/stdlib-js/stdlib/commit/10a84e4c9eed0d45927561f7998027339061cae3) - **chore:** clean-up [(#15165)](https://github.com/stdlib-js/stdlib/pull/15165) _(by Philipp Burckhardt)_
+-   [`42d3459`](https://github.com/stdlib-js/stdlib/commit/42d345944ad067d4b9db02cc05b6adb2f232b635) - **style:** add missing spaces [(#15143)](https://github.com/stdlib-js/stdlib/pull/15143) _(by Philipp Burckhardt)_
+-   [`16860f9`](https://github.com/stdlib-js/stdlib/commit/16860f956dcb4e93e15d03759df74c53503e1d13) - **test:** migrate `stats/base/dists/exponential/cdf` to ULP-based assertions [(#15141)](https://github.com/stdlib-js/stdlib/pull/15141) _(by Philipp Burckhardt)_
+-   [`cd8ce6e`](https://github.com/stdlib-js/stdlib/commit/cd8ce6eaf0b4a345e7977807c00a1348a30bf195) - **test:** migrate `stats/base/dists/exponential/pdf` to ULP-based assertions [(#15136)](https://github.com/stdlib-js/stdlib/pull/15136) _(by Aryan kumar)_
+-   [`e4ae867`](https://github.com/stdlib-js/stdlib/commit/e4ae8677c364fe0201cbbe5444c307e63806d463) - **test:** migrate `stats/base/dists/exponential/stdev` to ULP-based assertions [(#14936)](https://github.com/stdlib-js/stdlib/pull/14936) _(by Athan Reines)_
+-   [`c918067`](https://github.com/stdlib-js/stdlib/commit/c9180674db1f1aa125415970307174b2b9d96982) - **test:** migrate `stats/base/dists/exponential/logpdf` to ULP-based assertions [(#14912)](https://github.com/stdlib-js/stdlib/pull/14912) _(by Aryan kumar)_
+-   [`103d6cc`](https://github.com/stdlib-js/stdlib/commit/103d6ccfaa4b86c32b6adc79444a096661e2e616) - **test:** migrate `stats/base/dists/exponential/entropy` to ULP-based assertions [(#14774)](https://github.com/stdlib-js/stdlib/pull/14774) _(by Athan Reines)_
+-   [`34f8528`](https://github.com/stdlib-js/stdlib/commit/34f8528c084c51c9810bce43579b248f387cacfa) - **test:** migrate `stats/base/dists/exponential/logcdf` to ULP-based assertions [(#14726)](https://github.com/stdlib-js/stdlib/pull/14726) _(by Athan Reines)_
+-   [`6ecc151`](https://github.com/stdlib-js/stdlib/commit/6ecc15157c7c72ace6ececc2cb23692be8e62e5d) - **test:** migrate `stats/base/dists/exponential/quantile` to ULP-based assertions [(#14706)](https://github.com/stdlib-js/stdlib/pull/14706) _(by Athan Reines)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`dbe4c82`](https://github.com/stdlib-js/stdlib/commit/dbe4c820ea98330253b4054a5bc9b04b2293415b) - **docs:** propagate fixes to sibling packages [(#12677)](https://github.com/stdlib-js/stdlib/pull/12677) _(by Philipp Burckhardt, Athan Reines)_
 -   [`77195c3`](https://github.com/stdlib-js/stdlib/commit/77195c343d9d48e264a58f8ec213d0df53ca7317) - **docs:** update namespace table of contents [(#12835)](https://github.com/stdlib-js/stdlib/pull/12835) _(by stdlib-bot)_
@@ -40,8 +49,9 @@
 
 ### Contributors
 
-A total of 7 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
+-   Aryan kumar
 -   Athan Reines
 -   Mara Averick
 -   Om-A-osc
