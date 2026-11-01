@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-15)
+## Unreleased (2026-11-01)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5230](https://github.com/stdlib-js/stdlib/issues/5230)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,11 @@
 
 <details>
 
+-   [`d213b8d`](https://github.com/stdlib-js/stdlib/commit/d213b8d5ab11a1294b622cae091b90278feb1c87) - **docs:** add missing blank line [(#16399)](https://github.com/stdlib-js/stdlib/pull/16399) _(by harsh-thakkar7)_
+-   [`878a16e`](https://github.com/stdlib-js/stdlib/commit/878a16e4e0726ece9f2edb62d45babc90910e040) - **test:** migrate `stats/base/dists/exponential/kurtosis` to ULP-based assertions [(#15952)](https://github.com/stdlib-js/stdlib/pull/15952) _(by Philipp Burckhardt)_
+-   [`6329863`](https://github.com/stdlib-js/stdlib/commit/63298635a23d39cb73caaffb17c102ccd446b894) - **test:** migrate `stats/base/dists/exponential/skewness` to ULP-based assertions [(#15991)](https://github.com/stdlib-js/stdlib/pull/15991) _(by Philipp Burckhardt)_
+-   [`7166567`](https://github.com/stdlib-js/stdlib/commit/7166567f6fcaf5f7922acaf2dbca0225de567ebf) - **test:** migrate `stats/base/dists/exponential/variance` to ULP-based assertions [(#15799)](https://github.com/stdlib-js/stdlib/pull/15799) _(by Philipp Burckhardt, Athan Reines)_
+-   [`caf354b`](https://github.com/stdlib-js/stdlib/commit/caf354b736a25a1c78b3df58acfce235aad10b3b) - **test:** migrate `stats/base/dists/exponential/mgf` to ULP-based testing [(#15622)](https://github.com/stdlib-js/stdlib/pull/15622) _(by Yug Bhatia)_
 -   [`10a84e4`](https://github.com/stdlib-js/stdlib/commit/10a84e4c9eed0d45927561f7998027339061cae3) - **chore:** clean-up [(#15165)](https://github.com/stdlib-js/stdlib/pull/15165) _(by Philipp Burckhardt)_
 -   [`42d3459`](https://github.com/stdlib-js/stdlib/commit/42d345944ad067d4b9db02cc05b6adb2f232b635) - **style:** add missing spaces [(#15143)](https://github.com/stdlib-js/stdlib/pull/15143) _(by Philipp Burckhardt)_
 -   [`16860f9`](https://github.com/stdlib-js/stdlib/commit/16860f956dcb4e93e15d03759df74c53503e1d13) - **test:** migrate `stats/base/dists/exponential/cdf` to ULP-based assertions [(#15141)](https://github.com/stdlib-js/stdlib/pull/15141) _(by Philipp Burckhardt)_
@@ -49,7 +66,7 @@
 
 ### Contributors
 
-A total of 8 people contributed to this release. Thank you to the following contributors:
+A total of 10 people contributed to this release. Thank you to the following contributors:
 
 -   Aryan kumar
 -   Athan Reines
@@ -58,7 +75,9 @@ A total of 8 people contributed to this release. Thank you to the following cont
 -   Philipp Burckhardt
 -   Siddhartha Mondal
 -   Vishal Gaikwad
+-   Yug Bhatia
 -   anee3
+-   harsh-thakkar7
 
 </section>
 
